@@ -10,6 +10,24 @@ export const COLORS = {
 
 export const INITIAL_DATA = [
   {
+    "title": "Dashboard Pré-Venda",
+    "category": "Dashboards",
+    "coverUrl": "https://www.kango.com.br/wp-content/uploads/2026/02/Dashboard-PreVenda.jpg",
+    "pdfUrl": "https://lookerstudio.google.com/reporting/35c9dbb5-2ce0-4270-a3e9-77d151319576",
+    "description": "Uma visão detalhada sobre a prospecção e qualificação de novos projetos. Entenda como identificamos arenas, clubes e prefeituras com potencial para receberem a infraestrutura de elite da Kango Brasil, garantindo que cada lead seja uma semente para um grande projeto.",
+    "isFeatured": false,
+    "id": "1770915921604"
+  },
+  {
+    "title": "Dashboard Comercial",
+    "category": "Dashboards",
+    "coverUrl": "https://www.kango.com.br/wp-content/uploads/2026/02/Dashboard-Comercial.jpg",
+    "pdfUrl": "https://lookerstudio.google.com/reporting/9a5c5d2d-f11a-4f9d-b8b8-1eb7d7352be4",
+    "description": "O Motor do Nosso Crescimento. Uma visão estratégica sobre nossos indicadores de performance, metas batidas e expansão de mercado. Explore os dados que guiam a Kango Brasil rumo à liderança em infraestrutura esportiva e entenda como transformamos oportunidades em resultados sólidos.",
+    "isFeatured": true,
+    "id": "1770915809151"
+  },
+  {
     "title": "Portfólio Completo",
     "category": "Outros",
     "coverUrl": "https://www.kango.com.br/wp-content/uploads/2026/02/Outros.jpg",
