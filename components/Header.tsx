@@ -33,18 +33,20 @@ export const Header: React.FC<HeaderProps> = ({ onAdminClick, isAdminMode, onCat
     >
       <div className="container mx-auto px-4 md:px-12 flex items-center justify-between">
         <div className="flex items-center gap-12">
-          {/* Logo Oficial Kango Brasil */}
+          {/* Logo Oficial Kango Brasil - Aumentado em 20% */}
           <div 
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             className="flex items-center cursor-pointer transition-transform hover:scale-105 active:scale-95"
           >
             <img 
-              src="https://raw.githubusercontent.com/ai-code-images/logos/main/kango-white.png" 
+              src="https://www.kango.com.br/wp-content/uploads/2026/02/logotipo-completa-branca.png" 
               alt="Kango Brasil" 
-              className="h-10 md:h-14 w-auto object-contain"
+              className="h-10 md:h-[60px] w-auto object-contain"
               onError={(e) => {
                 e.currentTarget.style.display = 'none';
-                e.currentTarget.parentElement!.innerHTML = '<span class="text-xl font-bold">KANGO BRASIL</span>';
+                if (e.currentTarget.parentElement) {
+                  e.currentTarget.parentElement.innerHTML = '<span class="text-xl font-bold tracking-tighter">KANGO BRASIL</span>';
+                }
               }}
             />
           </div>
