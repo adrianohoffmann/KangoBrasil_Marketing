@@ -39,9 +39,9 @@ export const LoginModal: React.FC<LoginModalProps> = ({ onClose, onLogin, isSite
           </div>
           
           <img 
-            src="https://raw.githubusercontent.com/ai-code-images/logos/main/kango-white.png" 
+            src="https://www.kango.com.br/wp-content/uploads/2026/02/logotipo-completa-branca.png" 
             alt="Kango Brasil" 
-            className="h-10 mb-2"
+            className="h-[60px] mb-2 object-contain"
             onError={(e) => e.currentTarget.style.display = 'none'}
           />
 
