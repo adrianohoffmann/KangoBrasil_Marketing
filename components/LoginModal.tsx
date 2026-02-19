@@ -84,7 +84,7 @@ export const LoginModal: React.FC<LoginModalProps> = ({ onClose, onLogin, isSite
         </form>
 
         <p className="mt-8 text-[10px] text-gray-600 text-center uppercase tracking-widest font-bold">
-          &copy; Kango Brasil - Infraestrutura e Tecnologia
+          &copy; 2026 Kango Brasil - Infraestrutura Esportiva
         </p>
       </div>
     </div>
