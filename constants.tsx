@@ -10,6 +10,24 @@ export const COLORS = {
 
 export const INITIAL_DATA = [
   {
+    "title": "Background 02",
+    "category": "Outros",
+    "coverUrl": "https://drive.google.com/file/d/175862RQAbbXxMqXDXAhPED0OkryhvDgU/view?usp=drive_link",
+    "pdfUrl": "https://drive.google.com/file/d/1nYbMk941qyZ0iWxA1WuCclMA8Be_DuTE/view?usp=drive_link",
+    "description": "Background para reuniões online e apresentações institucionais.\nAlinhados à identidade visual da marca, garantem profissionalismo e consistência nas comunicações.",
+    "isFeatured": false,
+    "id": "1771613236715"
+  },
+  {
+    "title": "Background 01",
+    "category": "Outros",
+    "coverUrl": "https://drive.google.com/file/d/1MZ9gd38qh3COjlZft4oapsSaxWgVpZcu/view?usp=drive_link",
+    "pdfUrl": "https://drive.google.com/file/d/1QHhjgq8gGlFQxl1aMXesFnyZ7ohVy8ww/view?usp=drive_link",
+    "description": "Background para reuniões online e apresentações institucionais.\nAlinhados à identidade visual da marca, garantem profissionalismo e consistência nas comunicações.",
+    "isFeatured": false,
+    "id": "1771613171876"
+  },
+  {
     "title": "Planejamento Marketing 2026",
     "category": "Outros",
     "coverUrl": "https://www.kango.com.br/wp-content/uploads/2026/02/Marketing2.jpg",
