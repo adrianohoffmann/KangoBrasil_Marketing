@@ -31,7 +31,7 @@ export const INITIAL_DATA = [
     "title": "Planejamento Marketing 2026",
     "category": "Outros",
     "coverUrl": "https://www.kango.com.br/wp-content/uploads/2026/02/Marketing2.jpg",
-    "pdfUrl": "https://drive.google.com/file/d/1zCHMKJd3MqRxlDsr4v1uj7gdYIi0O5y2/view?usp=drive_link",
+    "pdfUrl": "https://drive.google.com/file/d/1qRQm0dJKKcB2sevUVEFUcllP7ZsDNILb/view?usp=drive_link",
     "description": "Do conceito à execução. Dê um play e descubra os bastidores da estratégia que vai elevar o patamar da Kango Brasil no mercado de infraestrutura esportiva em 2026.",
     "isFeatured": false,
     "id": "1770925498201"
